@@ -1,4 +1,4 @@
-# Momebrew a tutta birra!
+# Homebrew a tutta birra!
 
 **Un ebook in costruzione per imparare a usare il gestore di pacchetti open source su macOS**
 
